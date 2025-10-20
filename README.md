@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jacky Cheung</h1>
+<h2 align="center">Welcome to My GitHub Profile!</h2>
 <h3 align="center">A computing fresh graduate from the Hang Seng university of Hong Hong</h3>
 
 - 🌱 I’m currently learning **Tensorflow and Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiu82012](https://github.com/Kiu82012)
 
-- 📫 How to reach me **jackycck820@gmail.com**
+- 📫 How to reach me : **jackycck820@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
